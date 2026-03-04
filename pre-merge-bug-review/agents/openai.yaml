@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pre-Merge Bug Review"
+  short_description: "Risk-ranked verified pre-merge bug checks"
+  default_prompt: "Use $pre-merge-bug-review to audit this non-main branch against main, verify findings, and report them sorted by risk including migration checks."
