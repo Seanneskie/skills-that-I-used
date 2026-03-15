@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Migrations Branch"
+  short_description: "Create a migrations-only git branch with Linear-aware naming."
+  default_prompt: "Create a migrations-only branch from the current branch, using <LINEAR-ID>-migrations when available."
